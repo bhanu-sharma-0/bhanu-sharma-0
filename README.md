@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @bhanu-sharma-0
+# 👋 Hi, I’m [Bhanu](https://github.com/bhanu-sharma-0)
 
 ## 👀 My Interests:
 - **Web Development**: I love creating websites that look good and work well.
